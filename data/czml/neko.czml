@@ -95,8 +95,7 @@
     {
         "id": "neko2",
         "availability": "2014-08-02T12:50:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
-        "description": "<p class=\"date\">2014.8.2 12:50</p>",
+        "name": "おすとあんでる",
         "billboard": {
             "scaleByDistance": {
                 "nearFarScalar": [
@@ -122,9 +121,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.73666666667,
-                35.503333333333,
-                1800
+                139.603760,
+                35.506371,
+                1000
             ]
         },
         "label": {
@@ -153,17 +152,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "おすとあんでる"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.73666666667,
-                    35.503333333333,
-                    1800,
-                    138.73666666667,
-                    35.503333333333,
+                    139.603760,
+                    35.506371,
+                    1000,
+                    139.603760,
+                    35.506371,
                     0
                 ]
             },
