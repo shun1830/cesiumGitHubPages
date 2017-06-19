@@ -8,7 +8,6 @@
         "id": "neko1",
         "availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
         "name": "ネコ",
-        "description": "<p class=\"date\">2014.7.21 09:00</p>",
         "billboard": {
             "scaleByDistance": {
                 "nearFarScalar": [
