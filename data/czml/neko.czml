@@ -283,7 +283,7 @@
             },
             "horizontalOrigin": "CENTER",
             "image": "https://4.bp.blogspot.com/-J21YIbT2cd4/V5NEdnLBhBI/AAAAAAAA8jI/gyOg3C2Tij8LiEnVATKF350J7y_Z90lmgCLcB/s400/school_class_aseru.png",
-            "scale": 0.6,
+            "scale": 0.,
             "color": {
                 "rgba": [
                     255,
@@ -336,7 +336,7 @@
                 "cartographicDegrees": [
                     139.602617,
                     35.504981,
-                    1000,
+                    600,
                     139.602617,
                     35.504981,
                     0
@@ -371,7 +371,7 @@
             },
             "horizontalOrigin": "CENTER",
             "image": "https://3.bp.blogspot.com/-ulAra8ZoOxY/WKbKazk0oQI/AAAAAAABB04/IWAtU-oO-h47by4cJC7I0GUloJRqtx2SQCLcB/s400/food_aburasoba.png",
-            "scale": 0.6,
+            "scale": 0.3,
             "color": {
                 "rgba": [
                     255,
