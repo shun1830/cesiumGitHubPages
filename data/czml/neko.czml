@@ -18,7 +18,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "https://github.com/furuhashilab/www_furuhashiab_com/blob/gh-pages/temp/shun1830_t.png?raw=true",
+            "image": "https://raw.githubusercontent.com/furuhashilab/www_furuhashiab_com/gh-pages/temp/shun1830_t.png",
             "scale": 1.0,
             "color": {
                 "rgba": [
@@ -106,7 +106,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "https://github.com/furuhashilab/www_furuhashiab_com/blob/gh-pages/temp/shun1830_t.png?raw=true",
+            "image": "https://raw.githubusercontent.com/furuhashilab/www_furuhashiab_com/gh-pages/temp/shun1830_t.png",
             "scale": 1.0,
             "color": {
                 "rgba": [
@@ -160,7 +160,7 @@
                 "cartographicDegrees": [
                     139.603760,
                     35.506371,
-                    1000,
+                    3999,
                     139.603760,
                     35.506371,
                     0
@@ -194,7 +194,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "https://github.com/furuhashilab/www_furuhashiab_com/blob/gh-pages/temp/shun1830_t.png?raw=true",
+            "image": "https://raw.githubusercontent.com/furuhashilab/www_furuhashiab_com/gh-pages/temp/shun1830_t.png",
             "scale": 1.0,
             "color": {
                 "rgba": [
@@ -248,7 +248,7 @@
                 "cartographicDegrees": [
                     139.606361,
                     35.509907,
-                    1800,
+                    3999,
                     139.606361,
                     35.509907,
                     0
@@ -282,7 +282,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "https://github.com/furuhashilab/www_furuhashiab_com/blob/gh-pages/temp/shun1830_t.png?raw=true",
+            "image": "https://raw.githubusercontent.com/furuhashilab/www_furuhashiab_com/gh-pages/temp/shun1830_t.png",
             "scale": 1.0,
             "color": {
                 "rgba": [
@@ -336,7 +336,7 @@
                 "cartographicDegrees": [
                     139.602617,
                     35.504981,
-                    600,
+                    3999,
                     139.602617,
                     35.504981,
                     0
@@ -370,7 +370,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "https://github.com/furuhashilab/www_furuhashiab_com/blob/gh-pages/temp/shun1830_t.png?raw=true",
+            "image": "https://raw.githubusercontent.com/furuhashilab/www_furuhashiab_com/gh-pages/temp/shun1830_t.png",
             "scale": 1.0,
             "color": {
                 "rgba": [
@@ -424,7 +424,7 @@
                 "cartographicDegrees": [
                     139.603904,
                     35.505959,
-                    800,
+                    3999,
                     139.603904,
                     35.505959,
                     0
