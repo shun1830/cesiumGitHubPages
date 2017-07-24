@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "id": "document",
         "name": "neko",
@@ -32,7 +32,7 @@
         "position": {
             "cartographicDegrees": [
 
-138.727337,,35.360614,,3999 ]
+138.727337,35.360614,3999 ]
         },
         "label": {
             "translucencyByDistance": {
@@ -108,7 +108,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-139.60376,,35.506371,,3999 },
+139.60376,35.506371,3999 },
         "polyline": {
             "width": 1,
             "positions": {
@@ -130,7 +130,7 @@
     },"id":"neko4"
 
 
-139.602617,,35.504981,,3999 },
+139.602617,35.504981,3999 },
         "polyline": {
             "width": 1,
             "positions": {
@@ -152,7 +152,7 @@
     },"id":"neko5"
 
 
-139.603904,,35.505959,,3999 },
+139.603904,35.505959,3999 },
         "polyline": {
             "width": 1,
             "positions": {
