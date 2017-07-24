@@ -7,7 +7,7 @@
     {
         "id": "neko1",
         "availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "サッカー",
         "billboard": {
             "scaleByDistance": {
                 "nearFarScalar": [
@@ -64,7 +64,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "サッカー"
         },
         "polyline": {
             "width": 1,
@@ -95,7 +95,7 @@
     {
         "id": "neko2",
         "availability": "2014-08-02T12:50:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "おすとあんでる",
+        "name": "サッカー",
         "billboard": {
             "scaleByDistance": {
                 "nearFarScalar": [
@@ -152,7 +152,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "おすとあんでる"
+            "text": "サッカー"
         },
         "polyline": {
             "width": 1,
@@ -183,7 +183,7 @@
     {
         "id": "neko3",
         "availability": "2014-11-09T08:30:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "日産スタジアム",
+        "name": "サッカー",
         "billboard": {
             "scaleByDistance": {
                 "nearFarScalar": [
@@ -240,7 +240,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "日産スタジアム"
+            "text": "サッカー"
         },
         "polyline": {
             "width": 1,
@@ -271,7 +271,7 @@
     {
         "id": "neko4",
         "availability": "2014-11-22T19:20:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "城郷小学校",
+        "name": "サッカー",
         "billboard": {
             "scaleByDistance": {
                 "nearFarScalar": [
@@ -328,7 +328,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "城郷小学校"
+            "text": "サッカー"
         },
         "polyline": {
             "width": 1,
@@ -359,7 +359,7 @@
     {
         "id": "neko5",
         "availability": "2014-12-22T21:00:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "とりやまらあめん",
+        "name": "サッカー",
         "billboard": {
             "scaleByDistance": {
                 "nearFarScalar": [
@@ -416,7 +416,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "とりやまらあめん"
+            "text": "サッカー"
         },
         "polyline": {
             "width": 1,
