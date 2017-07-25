@@ -63,7 +63,7 @@
         "polyline": {
             "width": 1,
             "positions": {
-                "cartographicDegrees": [,138.727337,35.360614,3999138.727337,35.360614,0  ]
+                "cartographicDegrees": [138.727337,35.360614,3999138.727337,35.360614,0  ]
             },
             "material": {
                 "solidColor": {
@@ -165,7 +165,7 @@
         "polyline": {
             "width": 1,
             "positions": {
-                "cartographicDegrees": [,139.60376,35.506371,3999139.60376,35.506371,0  ]
+                "cartographicDegrees": [139.60376,35.506371,3999139.60376,35.506371,0  ]
             },
             "material": {
                 "solidColor": {
@@ -240,7 +240,7 @@
         "polyline": {
             "width": 1,
             "positions": {
-                "cartographicDegrees": [,139.602617,35.504981,3999139.602617,35.504981,0  ]
+                "cartographicDegrees": [139.602617,35.504981,3999139.602617,35.504981,0  ]
             },
             "material": {
                 "solidColor": {
@@ -315,7 +315,7 @@
         "polyline": {
             "width": 1,
             "positions": {
-                "cartographicDegrees": [,139.603904,35.505959,3999139.603904,35.505959,0  ]
+                "cartographicDegrees": [139.603904,35.505959,3999139.603904,35.505959,0  ]
             },
             "material": {
                 "solidColor": {
