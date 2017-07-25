@@ -3,7 +3,7 @@
         "id": "document",
         "name": "neko",
         "version": "1.0"
-    },"id":"neko1""availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
+    },{"id":"neko1""availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
         "name": "サッカー",
         "billboard": {
             "scaleByDistance": {
@@ -75,7 +75,7 @@
                 }
             }
         }
-    },"id":"neko2""availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
+    },{"id":"neko2""availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
         "name": "サッカー",
         "billboard": {
             "scaleByDistance": {
@@ -147,7 +147,7 @@
                 }
             }
         }
-    },"id":"neko3""availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
+    },{"id":"neko3""availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
         "name": "サッカー",
         "billboard": {
             "scaleByDistance": {
@@ -219,7 +219,7 @@
                 }
             }
         }
-    },"id":"neko4""availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
+    },{"id":"neko4""availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
         "name": "サッカー",
         "billboard": {
             "scaleByDistance": {
@@ -291,7 +291,7 @@
                 }
             }
         }
-    },"id":"neko5""availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
+    },{"id":"neko5""availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
         "name": "サッカー",
         "billboard": {
             "scaleByDistance": {
